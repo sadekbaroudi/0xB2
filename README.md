@@ -3,6 +3,14 @@ Pro-Micro/Elite-C replacement with USB-C and RP2040.
 
 Designed for use in custom mechanical (split) keyboards, but many other uses are possible.
 
+## splinky - ground mod
+
+Before you proceed, note that this is a mod of the original splinky. It was forked at v3.1, and rerouted to use expose an additional RP2040 (D24). See the image below. This has not been tested as of now (2022-11-23). If you're interested in using this, please join the [fingerpunch discord](https://fingerpunch.xyz/discord) and reach out to sadekbaroudi#1258  
+
+If you are using the controller with this mod, note that you must be aware if the pcb supports the extra gpio. If it does, then you can solder all pins of the controller to the pcb, as you normally would. If not, you should solder all pins **except** the one with the arrow next to it in the image below (labeled D24).
+
+![Splinky Ground Mod](pcb/doc/splinky-ground-mod.jpg?raw=true "Splinvy Ground Mod")
+
 ![Splinky v2](pcb/doc/splinky_v1_photo.jpg?raw=true "Splinvy v1")
 
 ## Features:
