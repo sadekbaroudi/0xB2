@@ -6,7 +6,8 @@
 
 Pro Micro footprint with USB-C, RP2040, and a [VIK](https://github.com/sadekbaroudi/vik) connector
 
-![svlinky photo](pcb/doc/svlinky_photo.jpg?raw=true "svlinky")
+![svlinky front](images/svlinky-front.png?raw=true "svlinky front")
+![svlinky back](images/svlinky-back.png?raw=true "svlinky back")
 
 ## Features
 

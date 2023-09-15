@@ -7,4 +7,5 @@
   (lib (name "0xB2_drawings")(type "KiCad")(uri "${KIPRJMOD}/drawings.pretty")(options "")(descr ""))
   (lib (name "vik")(type "KiCad")(uri "${KIPRJMOD}/vik/vik.pretty")(options "")(descr ""))
   (lib (name "fingerpunch")(type "KiCad")(uri "${KIPRJMOD}/fingerpunch.pretty")(options "")(descr ""))
+  (lib (name "plut0nium")(type "KiCad")(uri "${KIPRJMOD}/plut0nium.pretty")(options "")(descr ""))
 )
